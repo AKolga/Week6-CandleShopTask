@@ -42,7 +42,7 @@
     }
 
     .intro-text__textbox {
-        background-color: #967b5d;
+        background-color: hsl(32, 23%, 48%);
         color: #fff;
         height: 95vh;
         margin-top: -10rem;
@@ -53,6 +53,7 @@
 
     .intro-text__textbox h3 {
         text-transform: uppercase;
+        font-size: 1.5rem;
     }
 
     .packaging-image {
@@ -61,14 +62,14 @@
         background-size: cover;
         background-position: bottom;
         height: 450px;
-        margin-top: -25rem;
+        margin-top: -24rem;
         display: flex;
         align-items: center;
         justify-content: center;
     }
 
     .packaging-image__text  a {
-        background-color: #967b5d;
+        background-color: #967b5db6;
         color:rgb(247, 229, 203);
         display: inline-block;
         font-size: 1.5rem;
@@ -84,7 +85,7 @@
     }
 
     .packaging_text__textbox {
-        background-color: #866e68;
+        background-color: #967b5db6;
         color: #fff;
         text-align: center;
         justify-content: center;
